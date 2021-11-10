@@ -1,3 +1,5 @@
+//  Algorithm that calculates a quadratic function
+
 #include <iostream>
 #include <math.h>
 using namespace std;
